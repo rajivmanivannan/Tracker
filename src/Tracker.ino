@@ -28,8 +28,8 @@
 //Global variables.
  // Used to keep track of the last time we published data
  long lastPublish = 0;
- // Publish Every 10 minutes.
- int delayMinutes = 10;
+ // Publish Every 2 minutes.
+ int delayMinutes = 2;
 
  //Declare a callback method to listen the callback
  void locationCallback(float lat, float lon, float accuracy);

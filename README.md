@@ -3,7 +3,7 @@
 A Particle project named Tracker
 
 ## Description
-This project is to update the Geo-Coordinates every 10 minutes to the Particle cloud fetch from the GPS Module. If the GPS module is fail to give the fix. It will fall back to the Google Maps Device Locator and detect the Geo-Coordinates based on the cellar tower location.
+This project is for Asset Tracking. It update the Geo-Coordinates every 2 minutes to the Particle cloud fetch from the GPS Module. * If the GPS module is fail to give the fix. It will fall back to the Google Maps Device Locator and provide * the Geo-Coordinates based on the cellar tower location.
 
 ## Welcome to your project!
 
